@@ -92,8 +92,8 @@ See the [LICENSE](LICENSE) file for license rights and limitations (GNU).
 
 ## 💻 Built with
 
-- [Python](https://python.org/)
-- [Jupyter Notebook](https://jupyter.org/): for styling
+- [Python](https://python.org/): for programming language.
+- [Jupyter Notebook](https://jupyter.org/): as IDE for runing the programm.
 
 <hr>
 <p align="center">
