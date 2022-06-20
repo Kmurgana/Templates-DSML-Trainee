@@ -12,9 +12,9 @@ For any Machine Learning project, we have a Roadmap that in most cases is always
 
 ✅ 3) Adapting information, identifying and correcting anomalies 🔧
 
-✅ 4) Preparing data for training and testing 🏃♂️
+✅ 4) Preparing data for training and testing 🏃
 
-✅ 5) Training the model with training data🏋️♀️
+✅ 5) Training the model with training data🏋️
 
 ✅ 6) Making predictions with test data 🤔
 
@@ -45,7 +45,25 @@ Once the variables have been normalized, the data must be separated between trai
 * X_train, X_test
 * y_train, y_test
 
-The percentage criteria must be chosen by each developer, by default it will be set at 0.2.
+The percentage criteria must be chosen by each developer, by default it will be set at **0.2**.
+
+
+
+5) **Training the model with training data:** We choose the predictive models that best fit (this depends on the developer's knowledge), train the models and choose the one whose hyperparameters and results are most suitable for what we are looking for.
+
+6) **Making predictions with test data*: Once we have our model chosen and trained with our testing set, we input the testing set in order to make predictions with a lower fraction and compare results going forward.
+
+7) **Compare predictions with test data**: In this section we contrast the predictions of the testing set with the y_test, depending on which is the result we can see if the model has overfitting or underfitting for which we can readjust it if required.
+
+8) **Adjust the model**: According to the results obtained in 7) we should evaluate if the model needs adjustments or not, this step can be skipped if we are satisfied with the results obtained in 7), otherwise, we can train another model or change the hyperparameter that we believe convenient.
+
+
+9) **Present the results:** Finally, once we have our chosen model and we are satisfied with the result, the final predictions are made if there are any with the data set without a target, and the results are saved according to those requested or according to our criteria.
+
+
+
+
+Current version v1.0.0
 
 
 The idea is to add linear regression, clustering and recommender systems in the future. So far the only thing developed is a template for categorical variables. Through SK Learn, with the cross validation and grid search method, the following models are being created
