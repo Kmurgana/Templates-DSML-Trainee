@@ -7,13 +7,21 @@ The objective of this repository is to make available basic templates for any Ma
 For any Machine Learning project, we have a Roadmap that in most cases is always respected with some variations:
 
 ✅ 1) Raising the question ❓
+
 ✅ 2) Acquiring the data 🔍
+
 ✅ 3) Adapting information, identifying and correcting anomalies 🔧
+
 ✅ 4) Preparing data for training and testing 🏃♂️
+
 ✅ 5) Training the model with training data🏋️♀️
+
 ✅ 6) Making predictions with test data 🤔
+
 ✅ 7) Comparing predictions with test data📝
+
 ✅ 8) Adjusting the model🔨
+
 ✅ 9) Submitting results 🌟
 
 Then, the repository consists of creating a series of templetates as automated as possible for each stage of the analysis. Unused libraries and functions should be removed so that the program is not overloaded. But to summarize the steps:
