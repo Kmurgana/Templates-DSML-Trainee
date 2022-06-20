@@ -6,27 +6,19 @@ The objective of this repository is to make available basic templates for any Ma
 
 For any Machine Learning project, we have a Roadmap that in most cases is always respected with some variations:
 
-✅ 1) Raising the question ❓
+* 1) Raising the question ❓
+* 2) Acquiring the data 🔍
+* 3) Adapting information, identifying and correcting anomalies 🔧
+* 4) Preparing data for training and testing 🏃
+* 5) Training the model with training data🏋️
+* 6) Making predictions with test data 🤔
+* 7) Comparing predictions with test data📝
+* 8) Adjusting the model🔨
+* 9) Submitting results 🌟
 
-✅ 2) Acquiring the data 🔍
+Then, the project consists on creating a series of templetates as automated as possible for each stage of the analysis. Unused libraries and functions should be removed so that the program is not overloaded. But to summarize the steps:
 
-✅ 3) Adapting information, identifying and correcting anomalies 🔧
-
-✅ 4) Preparing data for training and testing 🏃
-
-✅ 5) Training the model with training data🏋️
-
-✅ 6) Making predictions with test data 🤔
-
-✅ 7) Comparing predictions with test data📝
-
-✅ 8) Adjusting the model🔨
-
-✅ 9) Submitting results 🌟
-
-Then, the repository consists of creating a series of templetates as automated as possible for each stage of the analysis. Unused libraries and functions should be removed so that the program is not overloaded. But to summarize the steps:
-
-1) **Raising the question:** Clearly state what the features are, what type they are, what is our target and what is the result we want to achieve. Based on this we already have a clear objective.
+1) **Raising the question:** ❓ Clearly state what the features are, what type they are, what is our target and what is the result we want to achieve. Based on this we already have a clear objective.
 
 2) **Acquiring the data**: Obtaining the variables from all the sources where they come from, in pdf, json, csv, excel, dot, etc. At this stage a small check is made with head() and shape **nothing else**.
 
@@ -46,8 +38,6 @@ Once the variables have been normalized, the data must be separated between trai
 * y_train, y_test
 
 The percentage criteria must be chosen by each developer, by default it will be set at **0.2**.
-
-
 
 5) **Training the model with training data:** We choose the predictive models that best fit (this depends on the developer's knowledge), train the models and choose the one whose hyperparameters and results are most suitable for what we are looking for.
 
