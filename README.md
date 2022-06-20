@@ -1,8 +1,27 @@
 # Templates for Data Science and Machine Learning -Trainee
 
-The objective of this repository is to make available basic templates for any Machine Learnig and Data Science (Trainee) project in Python.
+## Modules
+[[Intro](#intro)]
+[[General](#general)]
+[[Cycles](#cycles)]
+[[Conditionals](#conditionals)]
+[[Features](#features)]
+[[Objects](#objects)]
+[[Events](#events)]
+[[Jquery](#jquery)]
+[[Projects](#projects)]
 
 
+## Intro
+
+* The objective of this repository is to make available basic templates for any Machine Learnig and Data Science (Trainee) project in Python.
+* Then, the project consists on creating a series of templetates as automated as possible for each stage of the analysis, including the stage of model training, predictions and delivery of the final result.
+* This repository is created by a **Trainee and totally new to Data Science**, my apologies if there are misconceptions and/or criteria.
+
+Unused libraries and functions should be removed so that the program is not overloaded. But to summarize the steps:
+
+
+## General
 
 For any Machine Learning project, we have a Roadmap that in most cases is always respected with some variations:
 
@@ -16,7 +35,7 @@ For any Machine Learning project, we have a Roadmap that in most cases is always
 * 8) Adjusting the model🔨
 * 9) Submitting results 🌟
 
-Then, the project consists on creating a series of templetates as automated as possible for each stage of the analysis. Unused libraries and functions should be removed so that the program is not overloaded. But to summarize the steps:
+## Steps 
 
 1) **Raising the question:** ❓ Clearly state what the features are, what type they are, what is our target and what is the result we want to achieve. Based on this we already have a clear objective.
 
