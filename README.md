@@ -4,7 +4,7 @@
 [[Intro](#intro)]
 [[General](#general)]
 [[Steps](#steps)]
-[[Logistic Regression](#Logistic Regression)]
+[[Logistic_Regression](#logistic_regression)]
 [[License](#license)]
 
 
@@ -66,17 +66,16 @@ The percentage criteria must be chosen by each developer, by default it will be 
 Current version v1.0.0
 
 
+**Training the model with training data:
+
+## Logistic_Regression
+-------------------------------------------------------------
+
 The idea is to add linear regression, clustering and recommender systems in the future. So far the only thing developed is a template for categorical variables. Through SK Learn, with the cross validation and grid search method, the following models are being created
 
 The models are as follows:
 
 Depending on the target variable we have to predict, we have:
-
-v1.0.0
-
-
-## Logistic Regression
--------------------------------------------------------------
 
 * Linear Discriminant Analysis (LDA).
 * KNearest Neighbors
@@ -86,6 +85,7 @@ v1.0.0
 * Support Vector Classifier
 * Gradient Boosting Classifier
 
+----------------------------------------------------------
 ## License
 
 See the [LICENSE](LICENSE) file for license rights and limitations (GNU).
