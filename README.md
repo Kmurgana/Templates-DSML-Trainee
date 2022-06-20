@@ -3,13 +3,9 @@
 ## Modules
 [[Intro](#intro)]
 [[General](#general)]
-[[Cycles](#cycles)]
-[[Conditionals](#conditionals)]
-[[Features](#features)]
-[[Objects](#objects)]
-[[Events](#events)]
-[[Jquery](#jquery)]
-[[Projects](#projects)]
+[[Steps](#steps)]
+[[Logistic Regression](#logistic Regression)]
+[[License](#license)]
 
 
 ## Intro
@@ -18,22 +14,19 @@
 * Then, the project consists on creating a series of templetates as automated as possible for each stage of the analysis, including the stage of model training, predictions and delivery of the final result.
 * This repository is created by a **Trainee and totally new to Data Science**, my apologies if there are misconceptions and/or criteria.
 
-Unused libraries and functions should be removed so that the program is not overloaded. But to summarize the steps:
-
-
 ## General
 
 For any Machine Learning project, we have a Roadmap that in most cases is always respected with some variations:
 
-* 1) Raising the question ❓
-* 2) Acquiring the data 🔍
-* 3) Adapting information, identifying and correcting anomalies 🔧
-* 4) Preparing data for training and testing 🏃
-* 5) Training the model with training data🏋️
-* 6) Making predictions with test data 🤔
-* 7) Comparing predictions with test data📝
-* 8) Adjusting the model🔨
-* 9) Submitting results 🌟
+ 1) Raising the question ❓
+ 2) Acquiring the data 🔍
+ 3) Adapting information, identifying and correcting anomalies 🔧
+ 4) Preparing data for training and testing 🏃
+ 5) Training the model with training data🏋️
+ 6) Making predictions with test data 🤔
+ 7) Comparing predictions with test data📝
+ 8) Adjusting the model🔨
+ 9) Submitting results 🌟
 
 ## Steps 
 
@@ -70,8 +63,6 @@ The percentage criteria must be chosen by each developer, by default it will be 
 9) **Present the results:** Finally, once we have our chosen model and we are satisfied with the result, the final predictions are made if there are any with the data set without a target, and the results are saved according to those requested or according to our criteria.
 
 
-
-
 Current version v1.0.0
 
 
@@ -84,7 +75,7 @@ Depending on the target variable we have to predict, we have:
 v1.0.0
 
 
-## Logistic Regression.
+## Logistic Regression
 -------------------------------------------------------------
 
 * Linear Discriminant Analysis (LDA).
@@ -95,20 +86,16 @@ v1.0.0
 * Support Vector Classifier
 * Gradient Boosting Classifier
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## License
 
 See the [LICENSE](LICENSE) file for license rights and limitations (GNU).
+
+## 💻 Built with
+
+- [Python](https://python.org/)
+- [Jupyter Notebook](https://jupyter.org/): for styling
+
+<hr>
+<p align="center">
+Developed with ❤️ in Argentina 🇮🇳 
+</p>
