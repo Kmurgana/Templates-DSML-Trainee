@@ -4,7 +4,7 @@
 [[Intro](#intro)]
 [[General](#general)]
 [[Steps](#steps)]
-[[Logistic Regression](#logistic Regression)]
+[[Logistic Regression](#Logistic Regression)]
 [[License](#license)]
 
 
