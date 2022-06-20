@@ -30,7 +30,6 @@ v1.0.0
 * Support Vector Classifier
 * Gradient Boosting Classifier
 
-Translated with www.DeepL.com/Translator (free version)
 
 
 
