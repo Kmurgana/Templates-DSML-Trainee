@@ -4,7 +4,7 @@
 [[Intro](#intro)]
 [[General](#general)]
 [[Steps](#steps)]
-[[Logistic_Regression](#logistic_regression)]
+[[Classification_Template](#classification_template)]
 [[License](#license)]
 
 
@@ -68,7 +68,7 @@ Current version v1.0.0
 
 **Training the model with training data:
 
-## Logistic_Regression
+## Classification_Template
 -------------------------------------------------------------
 
 The idea is to add linear regression, clustering and recommender systems in the future. So far the only thing developed is a template for categorical variables. Through SK Learn, with the cross validation and grid search method, the following models are being created
