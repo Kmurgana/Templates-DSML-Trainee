@@ -1,0 +1,3621 @@
+REPORT CONTAMINACIÓN
+nº:
+81597
+FACILITY NAME:
+Millerhill Recycling & Energy Recovery Centre
+FacilityInspireID:
+UK.SEPA/200002651.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Millerhill, Dalkeith
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(b)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+175000
+DAY:
+12
+MONTH:
+6 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,79E+15
+min_wind_speed:
+2,2E+16 avg_wind_speed: 2,04E+15
+max_temp:
+1,51E+16
+min_temp:
+1,82E+15 avg_temp:
+1,71E+16
+DAYS FOG:
+10
+REPORTER NAME:William Nelson
+CITY_ID
+c662b4b4d859a9c224b5ac0acf221748
+REPORT CONTAMINACIÓN
+nº:
+81516
+FACILITY NAME:
+Fife Ethylene Plant
+81516
+FacilityInspireID:
+UK.SEPA/200000061.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Cowdenbeath
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+6,8E+08
+DAY:
+12
+MONTH:
+4 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,52E+16
+min_wind_speed:
+2,06E+15 avg_wind_speed: 1,46E+16
+max_temp:
+9,61E+15
+min_temp:
+1,33E+16 avg_temp:
+8,69E+15
+DAYS FOG:
+19
+REPORTER NAME:Shawn Graham
+CITY_ID
+3c563ab0d76fc84128574b5da82f769a
+REPORT CONTAMINACIÓN
+nº:
+81516
+FACILITY NAME:
+Fife Ethylene Plant
+81517
+FacilityInspireID:
+UK.SEPA/200000061.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Cowdenbeath
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+6,8E+08
+DAY:
+12
+MONTH:
+4 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,52E+16
+min_wind_speed:
+2,06E+15 avg_wind_speed: 1,46E+16
+max_temp:
+9,61E+15
+min_temp:
+1,33E+16 avg_temp:
+8,69E+15
+DAYS FOG:
+19
+REPORTER NAME:Shawn Graham
+CITY_ID
+3c563ab0d76fc84128574b5da82f769a
+REPORT CONTAMINACIÓN
+nº:
+81517
+FACILITY NAME:
+Fife Ethylene Plant
+81518
+FacilityInspireID:
+UK.SEPA/200000061.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Cowdenbeath
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+633000
+DAY:
+3
+MONTH:
+1 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,16E+16
+min_wind_speed:
+2,18E+16 avg_wind_speed: 1,65E+16
+max_temp:
+8,03E+15
+min_temp:
+1,04E+16 avg_temp:
+8,94E+15
+DAYS FOG:
+10
+REPORTER NAME:Aaron Johnson
+CITY_ID
+3c563ab0d76fc84128574b5da82f769a
+REPORT CONTAMINACIÓN
+nº:
+81518
+FACILITY NAME:
+Alloa Glass Factory
+81519
+FacilityInspireID:
+UK.SEPA/200000073.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Alloa
+EPRTRSectorCode:
+3
+eprtrSectorName:
+Mineral industry
+MainActivityCode:3(e)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+1,49E+08
+DAY:
+9
+MONTH:
+11 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,11E+16
+min_wind_speed:
+2,03E+16 avg_wind_speed:
+1,6E+16
+max_temp:
+-1,9E+16
+min_temp:
+4,07E+16 avg_temp:
+1,33E+15
+DAYS FOG:
+4
+REPORTER NAME:Vicki Brown
+CITY_ID
+2cc8f54182c37b8907f534011ea01e6f
+REPORT CONTAMINACIÓN
+nº:
+81519
+FACILITY NAME:
+Alloa Glass Factory
+81520
+FacilityInspireID:
+UK.SEPA/200000073.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Alloa
+EPRTRSectorCode:
+3
+eprtrSectorName:
+Mineral industry
+MainActivityCode:3(e)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+990000
+DAY:
+28
+MONTH:
+9 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,74E+16
+min_wind_speed:
+2,23E+15 avg_wind_speed: 1,89E+16
+max_temp:
+5,82E+14
+min_temp:
+9,39E+15 avg_temp:
+6,09E+15
+DAYS FOG:
+12
+REPORTER NAME:Lance Hart
+CITY_ID
+2cc8f54182c37b8907f534011ea01e6f
+REPORT CONTAMINACIÓN
+nº:
+81520
+FACILITY NAME:
+Restenneth Landfill Site, Forfar
+81521
+FacilityInspireID:
+UK.SEPA/200000081.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Forfar
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+694000
+DAY:
+20
+MONTH:
+8 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed:
+1,2E+16
+min_wind_speed:
+2,35E+16 avg_wind_speed: 1,61E+16
+max_temp:
+6,3E+15
+min_temp:
+1,28E+16 avg_temp:
+8,42E+14
+DAYS FOG:
+3
+REPORTER NAME:Timothy Williams
+CITY_ID
+f66f865a6e8c90a9bcafc9def2e701f5
+REPORT CONTAMINACIÓN
+nº:
+81521
+FACILITY NAME:
+Auchenlosh Landfill Site
+81522
+FacilityInspireID:
+UK.SEPA/200000082.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Dalbeattie
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+101000
+DAY:
+15
+MONTH:
+4 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,46E+16
+min_wind_speed:
+1,7E+16 avg_wind_speed: 1,47E+16
+max_temp:
+9,74E+15
+min_temp:
+1,1E+16 avg_temp:
+9,23E+15
+DAYS FOG:
+2
+REPORTER NAME:Brian Sims
+CITY_ID
+d52bec466f0edb76a6fc14c109598ba2
+REPORT CONTAMINACIÓN
+nº:
+81522
+FACILITY NAME:
+Auchencarroch Landfill, Jamestown
+81523
+FacilityInspireID:
+UK.SEPA/200000083.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Alexandria
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+1300000
+DAY:
+9
+MONTH:
+11 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,69E+16
+min_wind_speed:
+2,07E+16 avg_wind_speed: 1,79E+15
+max_temp:
+5,38E+15
+min_temp:
+1,18E+15 avg_temp:
+7,29E+15
+DAYS FOG:
+12
+REPORTER NAME:Tracy Powell
+CITY_ID
+a6bc8f85a33112c5beea4d357caad4cd
+REPORT CONTAMINACIÓN
+nº:
+81523
+FACILITY NAME:
+Garlaff Landfill Site, Cumnock
+81524
+FacilityInspireID:
+UK.SEPA/200000084.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Cumnock
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+999000
+DAY:
+20
+MONTH:
+11 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,49E+15
+min_wind_speed:
+2,37E+16 avg_wind_speed: 2,04E+16
+max_temp:
+1,58E+16
+min_temp:
+8,9E+15 avg_temp:
+4,32E+14
+DAYS FOG:
+11
+REPORTER NAME:Rebecca Brooks
+CITY_ID
+b6ca640b7121ae2bf206ea088f6a4618
+REPORT CONTAMINACIÓN
+nº:
+81524
+FACILITY NAME:
+Binn Farm Landfill Site
+81525
+FacilityInspireID:
+UK.SEPA/200000085.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Glenfarg
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+196000
+DAY:
+7
+MONTH:
+6 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 2,15E+15
+min_wind_speed:
+2,78E+16 avg_wind_speed: 2,08E+16
+max_temp:
+1,22E+15
+min_temp:
+1,58E+16 avg_temp:
+1,22E+14
+DAYS FOG:
+8
+REPORTER NAME:Tammy Williams
+CITY_ID
+930b3f6a2b01ab9967c61d939efce973
+REPORT CONTAMINACIÓN
+nº:
+81525
+FACILITY NAME:
+Kilgarth Landfill, Coatbridge
+81526
+FacilityInspireID:
+UK.SEPA/200000086.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Coatbridge
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+190000
+DAY:
+21
+MONTH:
+1 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,71E+16
+min_wind_speed:
+2,52E+16 avg_wind_speed: 2,14E+16
+max_temp:
+1,12E+15
+min_temp:
+1,3E+15 avg_temp:
+1,09E+16
+DAYS FOG:
+17
+REPORTER NAME:Lindsey Frazier
+CITY_ID
+2b83cfb769c8c15a3a0329410129a67f
+REPORT CONTAMINACIÓN
+nº:
+81526
+FACILITY NAME:
+Black Devon Landfill Site, Alloa
+81527
+FacilityInspireID:
+UK.SEPA/200000087.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Alloa, Clackmannanshire
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+107000
+DAY:
+27
+MONTH:
+6 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,61E+16
+min_wind_speed:
+2,41E+16 avg_wind_speed: 1,72E+15
+max_temp:
+8,75E+15
+min_temp:
+1,41E+16 avg_temp:
+1,03E+16
+DAYS FOG:
+18
+REPORTER NAME:Ryan Russell
+CITY_ID
+10fac069cd96c396ab2b6998ae548389
+REPORT CONTAMINACIÓN
+nº:
+81527
+FACILITY NAME:
+Bennadrove Landfill Site
+81528
+FacilityInspireID:
+UK.SEPA/200000088.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Isle of Lewis
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+602000
+DAY:
+18
+MONTH:
+9 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,79E+15
+min_wind_speed:
+2,32E+15 avg_wind_speed: 1,84E+16
+max_temp:
+3,65E+16
+min_temp:
+8,38E+15 avg_temp:
+6,01E+15
+DAYS FOG:
+6
+REPORTER NAME:Ryan Wallace
+CITY_ID
+c8a033ac7efbddf5c15e8e135fb15f51
+REPORT CONTAMINACIÓN
+nº:
+81528
+FACILITY NAME:
+Lochhead Landfill Site, Drumfermiline
+81529
+FacilityInspireID:
+UK.SEPA/200000094.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Dunfermline
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+1650000
+DAY:
+26
+MONTH:
+12 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,84E+15
+min_wind_speed:
+2,25E+16 avg_wind_speed: 1,99E+16
+max_temp:
+9,81E+15
+min_temp:
+1,28E+16 avg_temp:
+1,12E+16
+DAYS FOG:
+2
+REPORTER NAME:Julie Shaffer
+CITY_ID
+ca2df88517d85dbac7129467fbd1effc
+REPORT CONTAMINACIÓN
+nº:
+81529
+FACILITY NAME:
+Lower Melville Wood Landfill, By Ladybank
+81530
+FacilityInspireID:
+UK.SEPA/200000095.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Cupar, Fife
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+602000
+DAY:
+27
+MONTH:
+10 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,37E+16
+min_wind_speed:
+2,25E+16 avg_wind_speed: 1,47E+16
+max_temp:
+9,6E+15
+min_temp:
+1,25E+16 avg_temp:
+9,19E+15
+DAYS FOG:
+9
+REPORTER NAME:Brenda Holland
+CITY_ID
+d784f55b1d1ae261dff896b5030ca94e
+REPORT CONTAMINACIÓN
+nº:
+81530
+FACILITY NAME:
+South Cathkin Landfill Site, East Kilbride
+81531
+FacilityInspireID:
+UK.SEPA/200000097.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+East Kilbride
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+1220000
+DAY:
+22
+MONTH:
+3 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,42E+15
+min_wind_speed:
+1,98E+16 avg_wind_speed: 1,63E+16
+max_temp:
+9,02E+15
+min_temp:
+1,41E+16 avg_temp:
+1,18E+16
+DAYS FOG:
+3
+REPORTER NAME:Shelby Griffin
+CITY_ID
+18310638e5a7e7efb1b112016920c9f6
+REPORT CONTAMINACIÓN
+nº:
+81531
+FACILITY NAME:
+Summerston Landfill Site, Glasgow
+81532
+FacilityInspireID:
+UK.SEPA/200000098.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Summerston
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+163000
+DAY:
+9
+MONTH:
+4 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed:
+1,2E+16
+min_wind_speed:
+1,88E+15 avg_wind_speed: 1,53E+16
+max_temp:
+6,93E+15
+min_temp:
+9,22E+15 avg_temp:
+7,74E+15
+DAYS FOG:
+5
+REPORTER NAME:Sandra Wyatt
+CITY_ID
+d90f4f7149ed3e451f4618f82734dae7
+REPORT CONTAMINACIÓN
+nº:
+81532
+FACILITY NAME:
+Battleby Landfill Site, Perth
+81533
+FacilityInspireID:
+UK.SEPA/200000101.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Perth
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(c)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+354000
+DAY:
+18
+MONTH:
+7 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,26E+15
+min_wind_speed:
+2,17E+15 avg_wind_speed: 1,64E+16
+max_temp:
+1,11E+16
+min_temp:
+1,5E+16 avg_temp:
+1,1E+16
+DAYS FOG:
+4
+REPORTER NAME:Michael Cruz
+CITY_ID
+4bc44fa25c7afaf63618e6586084052e
+REPORT CONTAMINACIÓN
+nº:
+81533
+FACILITY NAME:
+Kirkhill Landfill Site, Elgin
+81534
+FacilityInspireID:
+UK.SEPA/200000105.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Elgin
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+253000
+DAY:
+7
+MONTH:
+5 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 2,05E+16
+min_wind_speed:
+2,47E+16 avg_wind_speed: 2,04E+14
+max_temp:
+1,68E+16
+min_temp:
+1,96E+16 avg_temp:
+1,76E+13
+DAYS FOG:
+8
+REPORTER NAME:Ashley Sanders
+CITY_ID
+16551e9337c69fac02ef95ddc620c8df
+REPORT CONTAMINACIÓN
+nº:
+81534
+FACILITY NAME:
+Nether Dallachy Landfill Site
+81535
+FacilityInspireID:
+UK.SEPA/200000106.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Spey Bay
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+945000
+DAY:
+1
+MONTH:
+6 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,64E+16
+min_wind_speed:
+2,57E+16 avg_wind_speed: 1,82E+15
+max_temp:
+1,98E+14
+min_temp:
+2,04E+16 avg_temp:
+1,91E+16
+DAYS FOG:
+7
+REPORTER NAME:Emily Martinez
+CITY_ID
+a05c92d590027b51608394c16aedc477
+REPORT CONTAMINACIÓN
+nº:
+81535
+FACILITY NAME:
+Auchinlea Landfill Site, Motherwell
+81536
+FacilityInspireID:
+UK.SEPA/200000109.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Clelland
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+922000
+DAY:
+15
+MONTH:
+2 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,76E+15
+min_wind_speed:
+2,26E+15 avg_wind_speed: 1,72E+16
+max_temp:
+1,21E+16
+min_temp:
+1,66E+16 avg_temp:
+1,24E+16
+DAYS FOG:
+14
+REPORTER NAME:Reginald Fisher
+CITY_ID
+82403770c9ed79e39a23ca735c8d945e
+REPORT CONTAMINACIÓN
+nº:
+81536
+FACILITY NAME:
+Greenoakhill Landfill Site, Glasgow
+81537
+FacilityInspireID:
+UK.SEPA/200000110.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Mount Vernon
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+1910000
+DAY:
+14
+MONTH:
+3 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,44E+16
+min_wind_speed:
+1,7E+15 avg_wind_speed: 1,47E+16
+max_temp:
+1,61E+16
+min_temp:
+1,77E+15 avg_temp:
+1,61E+16
+DAYS FOG:
+7
+REPORTER NAME:Jodi Holden
+CITY_ID
+5a9cc0e1663ad226675e57387c5e24e6
+REPORT CONTAMINACIÓN
+nº:
+81537
+FACILITY NAME:
+Easter Langlee Landfill Site, Galashiels
+81538
+FacilityInspireID:
+UK.SEPA/200000113.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Galashiels
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+296000
+DAY:
+4
+MONTH:
+8 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,53E+14
+min_wind_speed:
+2,69E+16 avg_wind_speed: 2,07E+15
+max_temp:
+1,65E+15
+min_temp:
+2,02E+16 avg_temp:
+1,91E+16
+DAYS FOG:
+7
+REPORTER NAME:Ashley Villa
+CITY_ID
+ff6f902129dcd065ed5a34da955999a7
+REPORT CONTAMINACIÓN
+nº:
+81538
+FACILITY NAME:
+Avondale Landfill Site, Polmont
+81539
+FacilityInspireID:
+UK.SEPA/200000115.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Polmont
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+2620000
+DAY:
+14
+MONTH:
+12 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,37E+16
+min_wind_speed:
+2,29E+16 avg_wind_speed: 1,56E+16
+max_temp:
+-1,7E+16
+min_temp:
+2,05E+16 avg_temp:
+5,11E+15
+DAYS FOG:
+2
+REPORTER NAME:Trevor Rodriguez
+CITY_ID
+941b15d27183b05e8e58e0fbc509e963
+REPORT CONTAMINACIÓN
+nº:
+81539
+FACILITY NAME:
+Avondale Landfill Site, Polmont
+81540
+FacilityInspireID:
+UK.SEPA/200000115.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Polmont
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+101000
+DAY:
+13
+MONTH:
+11 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,73E+16
+min_wind_speed:
+1,87E+16 avg_wind_speed: 1,65E+16
+max_temp:
+9,37E+15
+min_temp:
+1,12E+16 avg_temp:
+-2E+16
+DAYS FOG:
+7
+REPORTER NAME:Hunter Davidson
+CITY_ID
+941b15d27183b05e8e58e0fbc509e963
+REPORT CONTAMINACIÓN
+nº:
+81540
+FACILITY NAME:
+Greengairs Landfill Site, Airdrie
+81541
+FacilityInspireID:
+UK.SEPA/200000116.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Airdrie
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+972000
+DAY:
+26
+MONTH:
+7 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 2,11E+15
+min_wind_speed:
+2,73E+16 avg_wind_speed: 2,16E+16
+max_temp:
+1,7E+15
+min_temp:
+2E+16 avg_temp:
+1,87E+15
+DAYS FOG:
+19
+REPORTER NAME:Zachary Randolph
+CITY_ID
+12ab217b40114f8deef2237c7a4d37ae
+REPORT CONTAMINACIÓN
+nº:
+81541
+FACILITY NAME:
+Stoneyhill Landfill Site
+81542
+FacilityInspireID:
+UK.SEPA/200000119.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Peterhead
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+671000
+DAY:
+8
+MONTH:
+1 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,82E+15
+min_wind_speed:
+1,99E+16 avg_wind_speed: 1,84E+16
+max_temp:
+6,94E+16
+min_temp:
+1,03E+16 avg_temp:
+6,32E+15
+DAYS FOG:
+16
+REPORTER NAME:Lisa Kim
+CITY_ID
+2479bc4c2bfdf64343cc3320760cd92e
+REPORT CONTAMINACIÓN
+nº:
+81542
+FACILITY NAME:
+Straid Farm Landfill Site, Girvan
+81543
+FacilityInspireID:
+UK.SEPA/200000120.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Girvan
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+769000
+DAY:
+25
+MONTH:
+4 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,31E+16
+min_wind_speed:
+2,04E+15 avg_wind_speed: 1,55E+16
+max_temp:
+1,84E+15
+min_temp:
+2,24E+16 avg_temp:
+1,85E+14
+DAYS FOG:
+6
+REPORTER NAME:Valerie Melendez
+CITY_ID
+0177b2a2573de6fd8de65012c640dd3c
+REPORT CONTAMINACIÓN
+nº:
+81543
+FACILITY NAME:
+Dunbar Landfill Site, East Lothian
+81544
+FacilityInspireID:
+UK.SEPA/200000123.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Dunbar
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+740000
+DAY:
+10
+MONTH:
+7 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,13E+15
+min_wind_speed:
+1,75E+15 avg_wind_speed: 1,57E+16
+max_temp:
+1,73E+15
+min_temp:
+1,97E+16 avg_temp:
+1,81E+16
+DAYS FOG:
+5
+REPORTER NAME:Carol Hinton
+CITY_ID
+559b680a0a185afb0230c1a41927c92b
+REPORT CONTAMINACIÓN
+nº:
+81544
+FACILITY NAME:
+Oatslie Sandpit Landfill Site, Roslin
+81545
+FacilityInspireID:
+UK.SEPA/200000127.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Roslin
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+288000
+DAY:
+11
+MONTH:
+8 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,83E+16
+min_wind_speed:
+2,78E+16 avg_wind_speed: 2,14E+16
+max_temp:
+7,82E+15
+min_temp:
+1,18E+15 avg_temp:
+8,43E+14
+DAYS FOG:
+1
+REPORTER NAME:William Cook
+CITY_ID
+d6a5f9342439a677a4f2ac3492b13eb7
+REPORT CONTAMINACIÓN
+nº:
+81545
+FACILITY NAME:
+Stoneywood Papermill
+81546
+FacilityInspireID:
+UK.SEPA/200000134.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Aberdeen
+EPRTRSectorCode:
+6
+eprtrSectorName:
+Paper and wood production and processing
+MainActivityCode:6(b)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+213000
+DAY:
+14
+MONTH:
+1 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 8,34E+15
+min_wind_speed:
+1,95E+16 avg_wind_speed: 1,41E+16
+max_temp:
+4,9E+15
+min_temp:
+6,03E+15 avg_temp:
+4,54E+15
+DAYS FOG:
+17
+REPORTER NAME:Philip Cole
+CITY_ID
+f5f72e9d59bf003dd0eb05d4119da211
+REPORT CONTAMINACIÓN
+nº:
+81546
+FACILITY NAME:
+Sage North Sea Gas Terminal
+81547
+FacilityInspireID:
+UK.SEPA/200000136.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Peterhead
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(a)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+1130000
+DAY:
+22
+MONTH:
+5 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,56E+16
+min_wind_speed:
+2,13E+16 avg_wind_speed: 1,92E+16
+max_temp:
+6,83E+15
+min_temp:
+1,2E+16 avg_temp:
+9,66E+15
+DAYS FOG:
+13
+REPORTER NAME:James Patterson
+CITY_ID
+2479bc4c2bfdf64343cc3320760cd92e
+REPORT CONTAMINACIÓN
+nº:
+81547
+FACILITY NAME:
+Aberdeen Compressor Station, Garlogie
+81548
+FacilityInspireID:
+UK.SEPA/200000137.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Westhill
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+165000
+DAY:
+23
+MONTH:
+4 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 2,07E+16
+min_wind_speed:
+2,86E+16 avg_wind_speed: 2,08E+15
+max_temp:
+1,77E+16
+min_temp:
+2,13E+16 avg_temp:
+1,83E+16
+DAYS FOG:
+6
+REPORTER NAME:Rebecca Frost
+CITY_ID
+37026eb47ab18e608b1e15764800a9ef
+REPORT CONTAMINACIÓN
+nº:
+81548
+FACILITY NAME:
+NGG North Sea Gas Terminal
+81549
+FacilityInspireID:
+UK.SEPA/200000138.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Peterhead
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+417000
+DAY:
+13
+MONTH:
+8 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,85E+15
+min_wind_speed:
+2,66E+16 avg_wind_speed: 2,16E+16
+max_temp:
+1,81E+14
+min_temp:
+2,13E+16 avg_temp:
+1,89E+15
+DAYS FOG:
+10
+REPORTER NAME:Matthew Levy
+CITY_ID
+2479bc4c2bfdf64343cc3320760cd92e
+REPORT CONTAMINACIÓN
+nº:
+81549
+FACILITY NAME:
+Peterhead Power Station
+81550
+FacilityInspireID:
+UK.SEPA/200000142.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Peterhead
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+1,58E+09
+DAY:
+5
+MONTH:
+2 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,49E+16
+min_wind_speed:
+2,34E+15 avg_wind_speed: 1,68E+16
+max_temp:
+2,5E+16
+min_temp:
+8,7E+15 avg_temp:
+3,72E+15
+DAYS FOG:
+13
+REPORTER NAME:Seth Davis
+CITY_ID
+2479bc4c2bfdf64343cc3320760cd92e
+REPORT CONTAMINACIÓN
+nº:
+81550
+FACILITY NAME:
+Peterhead Power Station
+81551
+FacilityInspireID:
+UK.SEPA/200000142.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Peterhead
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+118000
+DAY:
+1
+MONTH:
+3 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed:
+1,4E+16
+min_wind_speed:
+2,17E+14 avg_wind_speed: 1,85E+14
+max_temp:
+1,57E+15
+min_temp:
+2,15E+16 avg_temp:
+1,65E+15
+DAYS FOG:
+15
+REPORTER NAME:Randy Hudson
+CITY_ID
+2479bc4c2bfdf64343cc3320760cd92e
+REPORT CONTAMINACIÓN
+nº:
+81551
+FACILITY NAME:
+Peterhead Power Station
+81552
+FacilityInspireID:
+UK.SEPA/200000142.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Peterhead
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+787000
+DAY:
+4
+MONTH:
+8 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,71E+16
+min_wind_speed:
+2,15E+16 avg_wind_speed:
+1,9E+16
+max_temp:
+1,36E+15
+min_temp:
+1,79E+16 avg_temp:
+1,54E+16
+DAYS FOG:
+14
+REPORTER NAME:Michelle Hayes
+CITY_ID
+2479bc4c2bfdf64343cc3320760cd92e
+REPORT CONTAMINACIÓN
+nº:
+81552
+FACILITY NAME:
+Shell North Sea Gas Terminal
+81553
+FacilityInspireID:
+UK.SEPA/200000143.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Peterhead
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(a)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+3,03E+08
+DAY:
+26
+MONTH:
+2 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,39E+16
+min_wind_speed:
+1,97E+16 avg_wind_speed: 1,51E+13
+max_temp:
+1,11E+16
+min_temp:
+1,36E+16 avg_temp:
+1,26E+15
+DAYS FOG:
+15
+REPORTER NAME:Kenneth Morris
+CITY_ID
+2479bc4c2bfdf64343cc3320760cd92e
+REPORT CONTAMINACIÓN
+nº:
+81553
+FACILITY NAME:
+Shell North Sea Gas Terminal
+81554
+FacilityInspireID:
+UK.SEPA/200000143.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Peterhead
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(a)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+664000
+DAY:
+9
+MONTH:
+6 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,27E+16
+min_wind_speed:
+2,08E+16 avg_wind_speed: 1,85E+15
+max_temp:
+1,79E+16
+min_temp:
+2,03E+14 avg_temp:
+1,84E+16
+DAYS FOG:
+11
+REPORTER NAME:Joyce Walker
+CITY_ID
+2479bc4c2bfdf64343cc3320760cd92e
+REPORT CONTAMINACIÓN
+nº:
+81554
+FACILITY NAME:
+Shell North Sea Gas Terminal
+81555
+FacilityInspireID:
+UK.SEPA/200000143.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Peterhead
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(a)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+235000
+DAY:
+26
+MONTH:
+8 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,46E+16
+min_wind_speed:
+2,49E+16 avg_wind_speed: 1,81E+15
+max_temp:
+1,4E+16
+min_temp:
+1,49E+16 avg_temp:
+1,35E+16
+DAYS FOG:
+13
+REPORTER NAME:Samantha Long
+CITY_ID
+2479bc4c2bfdf64343cc3320760cd92e
+REPORT CONTAMINACIÓN
+nº:
+81555
+FACILITY NAME:
+PX North Sea Gas Terminal
+81556
+FacilityInspireID:
+UK.SEPA/200000145.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Peterhead
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(a)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+223000
+DAY:
+21
+MONTH:
+5 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,61E+15
+min_wind_speed:
+2,71E+15 avg_wind_speed: 2,14E+15
+max_temp:
+1,88E+16
+min_temp:
+2,43E+16 avg_temp:
+1,99E+16
+DAYS FOG:
+15
+REPORTER NAME:Kevin Webb
+CITY_ID
+2479bc4c2bfdf64343cc3320760cd92e
+REPORT CONTAMINACIÓN
+nº:
+81556
+FACILITY NAME:
+Lerwick Power Station
+81557
+FacilityInspireID:
+UK.SEPA/200000148.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Lerwick
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+2020000
+DAY:
+15
+MONTH:
+8 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 2,23E+15
+min_wind_speed:
+2,65E+16 avg_wind_speed: 2,16E+16
+max_temp:
+1,19E+16
+min_temp:
+1,75E+15 avg_temp:
+1,29E+16
+DAYS FOG:
+1
+REPORTER NAME:James Martinez
+CITY_ID
+218e50104ad214eb8a6c59b289c32667
+REPORT CONTAMINACIÓN
+nº:
+81557
+FACILITY NAME:
+Sullom Voe Terminal
+81558
+FacilityInspireID:
+UK.SEPA/200000153.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Sullom Voe
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(a)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+178000
+DAY:
+6
+MONTH:
+5 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,39E+16
+min_wind_speed:
+2,1E+16 avg_wind_speed: 1,62E+16
+max_temp:
+7,08E+15
+min_temp:
+1,01E+15 avg_temp:
+7,08E+15
+DAYS FOG:
+16
+REPORTER NAME:Faith Brooks
+CITY_ID
+9464b2ded953e06faa3f034f054f19d2
+REPORT CONTAMINACIÓN
+nº:
+81558
+FACILITY NAME:
+Flotta North Sea Terminal, Orkney
+81559
+FacilityInspireID:
+UK.SEPA/200000157.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Stromness, Orkney
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(a)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+1,12E+08
+DAY:
+25
+MONTH:
+1 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,78E+15
+min_wind_speed:
+2,24E+16 avg_wind_speed: 2,04E+16
+max_temp:
+8,11E+15
+min_temp:
+1,23E+16 avg_temp:
+8,17E+14
+DAYS FOG:
+11
+REPORTER NAME:Calvin Velasquez
+CITY_ID
+bf7ff1049910efe1bccd90217619ae5b
+REPORT CONTAMINACIÓN
+nº:
+81559
+FACILITY NAME:
+Flotta North Sea Terminal, Orkney
+81560
+FacilityInspireID:
+UK.SEPA/200000157.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Stromness, Orkney
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(a)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+414000
+DAY:
+7
+MONTH:
+7 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,77E+14
+min_wind_speed:
+2,2E+15 avg_wind_speed: 1,86E+16
+max_temp:
+1,14E+16
+min_temp:
+1,7E+16 avg_temp:
+1,35E+15
+DAYS FOG:
+12
+REPORTER NAME:Shawn Scott
+CITY_ID
+bf7ff1049910efe1bccd90217619ae5b
+REPORT CONTAMINACIÓN
+nº:
+81560
+FACILITY NAME:
+Caledonian Paper Mill
+81561
+FacilityInspireID:
+UK.SEPA/200000176.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Irvine
+EPRTRSectorCode:
+6
+eprtrSectorName:
+Paper and wood production and processing
+MainActivityCode:6(b)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+2,84E+08
+DAY:
+26
+MONTH:
+5 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,73E+16
+min_wind_speed:
+2,51E+16 avg_wind_speed: 1,78E+16
+max_temp:
+1,52E+16
+min_temp:
+1,8E+16 avg_temp:
+1,62E+16
+DAYS FOG:
+13
+REPORTER NAME:Joel Foster
+CITY_ID
+3ecc035dd613d1e8c86207e007da26a4
+REPORT CONTAMINACIÓN
+nº:
+81561
+FACILITY NAME:
+Caledonian Paper Mill
+81562
+FacilityInspireID:
+UK.SEPA/200000176.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Irvine
+EPRTRSectorCode:
+6
+eprtrSectorName:
+Paper and wood production and processing
+MainActivityCode:6(b)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+257000
+DAY:
+6
+MONTH:
+10 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 2,14E+16
+min_wind_speed:
+2,32E+15 avg_wind_speed: 2,13E+16
+max_temp:
+8,13E+15
+min_temp:
+1,18E+16 avg_temp:
+9,83E+15
+DAYS FOG:
+3
+REPORTER NAME:Matthew Mendoza
+CITY_ID
+3ecc035dd613d1e8c86207e007da26a4
+REPORT CONTAMINACIÓN
+nº:
+81562
+FACILITY NAME:
+Brighouse Bay Compressor Station
+81563
+FacilityInspireID:
+UK.SEPA/200000189.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Kirkcudbright
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+253000
+DAY:
+20
+MONTH:
+7 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,28E+16
+min_wind_speed:
+2,15E+15 avg_wind_speed: 1,55E+16
+max_temp:
+1,36E+16
+min_temp:
+2,04E+16 avg_temp:
+1,61E+16
+DAYS FOG:
+7
+REPORTER NAME:Frank Stewart
+CITY_ID
+5343820368ff9d3aa5a9f5f18d36061a
+REPORT CONTAMINACIÓN
+nº:
+81563
+FACILITY NAME:
+DSM @ Drakemyre Chemical Works
+81564
+FacilityInspireID:
+UK.SEPA/200000207.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Dalry
+EPRTRSectorCode:
+4
+eprtrSectorName:
+Chemical industry
+MainActivityCode:4(a)(ii)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+108000
+DAY:
+9
+MONTH:
+10 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed:
+1,6E+16
+min_wind_speed:
+2,42E+15 avg_wind_speed: 1,86E+16
+max_temp:
+3,81E+16
+min_temp:
+6,54E+16 avg_temp:
+3,59E+16
+DAYS FOG:
+10
+REPORTER NAME:Kathryn Smith
+CITY_ID
+111a1f9724ed88a23488fd6fb36a050e
+REPORT CONTAMINACIÓN
+nº:
+81564
+FACILITY NAME:
+DSM @ Drakemyre Chemical Works
+81565
+FacilityInspireID:
+UK.SEPA/200000207.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Dalry
+EPRTRSectorCode:
+4
+eprtrSectorName:
+Chemical industry
+MainActivityCode:4(a)(ii)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+124000
+DAY:
+2
+MONTH:
+5 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 9,99E+15
+min_wind_speed:
+1,83E+16 avg_wind_speed: 1,52E+16
+max_temp:
+9,27E+15
+min_temp:
+1,3E+16 avg_temp:
+8,98E+14
+DAYS FOG:
+8
+REPORTER NAME:Andrea Holden
+CITY_ID
+111a1f9724ed88a23488fd6fb36a050e
+REPORT CONTAMINACIÓN
+nº:
+81566
+FACILITY NAME:
+Beattock Compressor Station, Moffat
+81567
+FacilityInspireID:
+UK.SEPA/200000215.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Beattock
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+139000
+DAY:
+17
+MONTH:
+9 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,02E+16
+min_wind_speed:
+2,38E+16 avg_wind_speed:
+1,6E+15
+max_temp:
+4,83E+15
+min_temp:
+5,56E+15 avg_temp:
+4,26E+16
+DAYS FOG:
+5
+REPORTER NAME:Brandon Bond PhD
+CITY_ID
+463ee3211a31a2cdb75c961bc209ba57
+REPORT CONTAMINACIÓN
+nº:
+81567
+FACILITY NAME:
+Barony Chipboard Plant
+81568
+FacilityInspireID:
+UK.SEPA/200000218.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Cumnock
+EPRTRSectorCode:
+6
+eprtrSectorName:
+Paper and wood production and processing
+MainActivityCode:6(b)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+183000
+DAY:
+18
+MONTH:
+12 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,38E+15
+min_wind_speed:
+2,6E+16 avg_wind_speed: 1,84E+15
+max_temp:
+1,39E+16
+min_temp:
+1,55E+16 avg_temp:
+1,42E+15
+DAYS FOG:
+18
+REPORTER NAME:Kristina Davis
+CITY_ID
+b6ca640b7121ae2bf206ea088f6a4618
+REPORT CONTAMINACIÓN
+nº:
+81568
+FACILITY NAME:
+Irvine Glass Works
+81569
+FacilityInspireID:
+UK.SEPA/200000221.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Irvine
+EPRTRSectorCode:
+3
+eprtrSectorName:
+Mineral industry
+MainActivityCode:3(e)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+191000
+DAY:
+12
+MONTH:
+12 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,91E+16
+min_wind_speed:
+2,69E+16 avg_wind_speed: 2,02E+15
+max_temp:
+9,54E+15
+min_temp:
+1,44E+16 avg_temp:
+1,17E+16
+DAYS FOG:
+8
+REPORTER NAME:Randall Smith
+CITY_ID
+3ecc035dd613d1e8c86207e007da26a4
+REPORT CONTAMINACIÓN
+nº:
+81569
+FACILITY NAME:
+Dalinlongart Landfill Site, Sandbank
+81570
+FacilityInspireID:
+UK.SEPA/200001325.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Dunoon
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+148000
+DAY:
+22
+MONTH:
+1 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,58E+16
+min_wind_speed:
+2,4E+16 avg_wind_speed: 1,89E+15
+max_temp:
+1,04E+16
+min_temp:
+1,7E+16 avg_temp:
+1,23E+16
+DAYS FOG:
+2
+REPORTER NAME:Joshua Oliver
+CITY_ID
+bc9dc084a859e6b840b69d6146c646df
+REPORT CONTAMINACIÓN
+nº:
+81570
+FACILITY NAME:
+Sullom Voe Terminal CHP, Shetland
+81571
+FacilityInspireID:
+UK.SEPA/200001408.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Mossbank
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+1,81E+08
+DAY:
+15
+MONTH:
+2 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,09E+16
+min_wind_speed:
+1,93E+15 avg_wind_speed: 1,67E+16
+max_temp:
+1,27E+16
+min_temp:
+4,56E+15 avg_temp:
+1,92E+16
+DAYS FOG:
+4
+REPORTER NAME:Nichole Thomas
+CITY_ID
+9a1df6efaa8aae020052840bafbfc7cb
+REPORT CONTAMINACIÓN
+nº:
+81571
+FACILITY NAME:
+Sullom Voe Terminal CHP, Shetland
+81572
+FacilityInspireID:
+UK.SEPA/200001408.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Mossbank
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+414000
+DAY:
+17
+MONTH:
+4 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,78E+16
+min_wind_speed:
+2,49E+15 avg_wind_speed: 1,77E+15
+max_temp:
+1,8E+16
+min_temp:
+2E+15 avg_temp:
+1,8E+16
+DAYS FOG:
+1
+REPORTER NAME:Sarah Stone
+CITY_ID
+9a1df6efaa8aae020052840bafbfc7cb
+REPORT CONTAMINACIÓN
+nº:
+81572
+FACILITY NAME:
+Moleigh Landfill Site, Ariogan
+81573
+FacilityInspireID:
+UK.SEPA/200001590.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+by Oban
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+115000
+DAY:
+26
+MONTH:
+5 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,61E+16
+min_wind_speed:
+2,04E+16 avg_wind_speed: 1,73E+16
+max_temp:
+1,52E+16
+min_temp:
+2,04E+15 avg_temp:
+1,61E+16
+DAYS FOG:
+18
+REPORTER NAME:Danielle Harris
+CITY_ID
+4c1bf2665cc02ac5cc6eed478d54d36b
+REPORT CONTAMINACIÓN
+nº:
+81573
+FACILITY NAME:
+Duisky Landfill Site
+81574
+FacilityInspireID:
+UK.SEPA/200001608.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Fort William
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+211000
+DAY:
+1
+MONTH:
+2 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 9,43E+15
+min_wind_speed:
+2,28E+15 avg_wind_speed: 1,49E+16
+max_temp:
+8,92E+15
+min_temp:
+1,43E+15 avg_temp:
+1,16E+16
+DAYS FOG:
+15
+REPORTER NAME:Paul Jackson
+CITY_ID
+586e5fa25c16bd09e3e9cfc7cc269360
+REPORT CONTAMINACIÓN
+nº:
+81574
+FACILITY NAME:
+Gremista Landfill Site
+81575
+FacilityInspireID:
+UK.SEPA/200001641.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Lerwick
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+229000
+DAY:
+2
+MONTH:
+7 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,79E+16
+min_wind_speed:
+2,36E+15 avg_wind_speed: 2,04E+15
+max_temp:
+9,67E+14
+min_temp:
+1,4E+16 avg_temp:
+1,24E+16
+DAYS FOG:
+9
+REPORTER NAME:Edward Ferrell PhD
+CITY_ID
+218e50104ad214eb8a6c59b289c32667
+REPORT CONTAMINACIÓN
+nº:
+81575
+FACILITY NAME:
+Shewalton Pits Landfill Site, Irvine
+81576
+FacilityInspireID:
+UK.SEPA/200001862.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Irvine
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+195000
+DAY:
+6
+MONTH:
+9 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,32E+16
+min_wind_speed:
+1,95E+15 avg_wind_speed: 1,56E+16
+max_temp:
+1,09E+16
+min_temp:
+1,53E+16 avg_temp:
+1,06E+16
+DAYS FOG:
+7
+REPORTER NAME:Rachel Johnson
+CITY_ID
+3ecc035dd613d1e8c86207e007da26a4
+REPORT CONTAMINACIÓN
+nº:
+81576
+FACILITY NAME:
+Steven's Croft Power Station
+81577
+FacilityInspireID:
+UK.SEPA/200001997.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Nethercleugh, Lockerbie
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(b)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+3,71E+08
+DAY:
+15
+MONTH:
+8 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,73E+15
+min_wind_speed:
+2,63E+16 avg_wind_speed: 2,19E+16
+max_temp:
+8,32E+15
+min_temp:
+1,23E+16 avg_temp:
+1,06E+16
+DAYS FOG:
+11
+REPORTER NAME:William Mcdonald
+CITY_ID
+7783fe41078f25e8fc8f539c163864fb
+REPORT CONTAMINACIÓN
+nº:
+81577
+FACILITY NAME:
+Steven's Croft Power Station
+81578
+FacilityInspireID:
+UK.SEPA/200001997.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Nethercleugh, Lockerbie
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(b)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+267000
+DAY:
+6
+MONTH:
+10 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,17E+16
+min_wind_speed:
+2,06E+15 avg_wind_speed: 1,59E+16
+max_temp:
+2,04E+16
+min_temp:
+6,3E+15 avg_temp:
+3,62E+15
+DAYS FOG:
+7
+REPORTER NAME:Heather Mccoy
+CITY_ID
+7783fe41078f25e8fc8f539c163864fb
+REPORT CONTAMINACIÓN
+nº:
+81578
+FACILITY NAME:
+Rigmuir Landfill Site
+81579
+FacilityInspireID:
+UK.SEPA/200002051.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+East Kilbride
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+274000
+DAY:
+3
+MONTH:
+10 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed:
+1,6E+16
+min_wind_speed:
+2,56E+16 avg_wind_speed:
+2E+16
+max_temp:
+7,72E+15
+min_temp:
+1,19E+16 avg_temp:
+8,21E+15
+DAYS FOG:
+3
+REPORTER NAME:Mary Montgomery
+CITY_ID
+18310638e5a7e7efb1b112016920c9f6
+REPORT CONTAMINACIÓN
+nº:
+81579
+FACILITY NAME:
+Lingerton Landfill Site
+81580
+FacilityInspireID:
+UK.SEPA/200002076.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Lochgilphead
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+260000
+DAY:
+27
+MONTH:
+8 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,67E+16
+min_wind_speed:
+2,19E+16 avg_wind_speed: 2,08E+16
+max_temp:
+1,6E+16
+min_temp:
+1,97E+16 avg_temp:
+1,83E+16
+DAYS FOG:
+2
+REPORTER NAME:Laura Baldwin
+CITY_ID
+e097438351f598e386b7afd7775ad3c7
+REPORT CONTAMINACIÓN
+nº:
+81580
+FACILITY NAME:
+Rova Head Landfill Site
+81581
+FacilityInspireID:
+UK.SEPA/200002310.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Lerwick
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+227000
+DAY:
+15
+MONTH:
+1 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,41E+15
+min_wind_speed:
+2,17E+16 avg_wind_speed: 1,51E+16
+max_temp:
+3,97E+16
+min_temp:
+6,06E+15 avg_temp:
+4,91E+15
+DAYS FOG:
+3
+REPORTER NAME:Leslie Baker
+CITY_ID
+218e50104ad214eb8a6c59b289c32667
+REPORT CONTAMINACIÓN
+nº:
+81581
+FACILITY NAME:
+UK Waste Management Ltd
+81582
+FacilityInspireID:
+UK.SEPA/200002311.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Wellbank
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+179000
+DAY:
+18
+MONTH:
+4 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,18E+16
+min_wind_speed:
+1,95E+16 avg_wind_speed: 1,56E+16
+max_temp:
+7,44E+15
+min_temp:
+1,27E+16 avg_temp:
+8,78E+15
+DAYS FOG:
+18
+REPORTER NAME:Valerie Simmons
+CITY_ID
+2c3df26128c6000ec9b5120a7917a862
+REPORT CONTAMINACIÓN
+nº:
+81582
+FACILITY NAME:
+Dalmacoulter Landfill Site
+81583
+FacilityInspireID:
+UK.SEPA/200002314.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Dalmacouter
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(d)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+104000
+DAY:
+18
+MONTH:
+7 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 9,89E+15
+min_wind_speed:
+1,63E+16 avg_wind_speed: 1,52E+16
+max_temp:
+1,25E+16
+min_temp:
+1,75E+16 avg_temp:
+1,48E+16
+DAYS FOG:
+5
+REPORTER NAME:Keith Holmes
+CITY_ID
+20b790f3c89efe9244f4b79071f3d7c5
+REPORT CONTAMINACIÓN
+nº:
+81583
+FACILITY NAME:
+Energen Biogas Ltd
+81584
+FacilityInspireID:
+UK.SEPA/200002439.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Cumbernauld, North Lanarkshire
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(e)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+121000
+DAY:
+3
+MONTH:
+1 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,55E+16
+min_wind_speed:
+2,75E+16 avg_wind_speed: 2,13E+15
+max_temp:
+1,26E+16
+min_temp:
+1,69E+16 avg_temp:
+1,31E+16
+DAYS FOG:
+4
+REPORTER NAME:Christopher Edwards
+CITY_ID
+bcff811188942188f362092b1014b3ee
+REPORT CONTAMINACIÓN
+nº:
+81584
+FACILITY NAME:
+INEOS Chemicals Grangemouth Ltd
+81585
+FacilityInspireID:
+UK.SEPA/200002493.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Grangemouth
+EPRTRSectorCode:
+4
+eprtrSectorName:
+Chemical industry
+MainActivityCode:4(a)(i)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+5,22E+08
+DAY:
+9
+MONTH:
+5 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,75E+16
+min_wind_speed:
+2,46E+15 avg_wind_speed:
+1,8E+15
+max_temp:
+1,47E+16
+min_temp:
+1,78E+15 avg_temp:
+1,66E+15
+DAYS FOG:
+3
+REPORTER NAME:Kelly Williams
+CITY_ID
+ce6badb6a385e25ce519dc600eb7402e
+REPORT CONTAMINACIÓN
+nº:
+81585
+FACILITY NAME:
+INEOS Chemicals Grangemouth Ltd
+81586
+FacilityInspireID:
+UK.SEPA/200002493.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Grangemouth
+EPRTRSectorCode:
+4
+eprtrSectorName:
+Chemical industry
+MainActivityCode:4(a)(i)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+169000
+DAY:
+10
+MONTH:
+11 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,45E+15
+min_wind_speed:
+1,85E+16 avg_wind_speed: 1,69E+16
+max_temp:
+8,86E+15
+min_temp:
+1,32E+15 avg_temp:
+9,17E+15
+DAYS FOG:
+1
+REPORTER NAME:Amy Dawson
+CITY_ID
+ce6badb6a385e25ce519dc600eb7402e
+REPORT CONTAMINACIÓN
+nº:
+81586
+FACILITY NAME:
+INEOS Chemicals Grangemouth Ltd
+81587
+FacilityInspireID:
+UK.SEPA/200002493.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Grangemouth
+EPRTRSectorCode:
+4
+eprtrSectorName:
+Chemical industry
+MainActivityCode:4(a)(i)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+612000
+DAY:
+17
+MONTH:
+2 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,46E+15
+min_wind_speed:
+2,65E+16 avg_wind_speed: 1,89E+16
+max_temp:
+1,18E+16
+min_temp:
+1,55E+16 avg_temp:
+1,12E+16
+DAYS FOG:
+13
+REPORTER NAME:Julie Elliott
+CITY_ID
+ce6badb6a385e25ce519dc600eb7402e
+REPORT CONTAMINACIÓN
+nº:
+81587
+FACILITY NAME:
+INEOS Infrastructure (Grangemouth) Ltd
+81588
+FacilityInspireID:
+UK.SEPA/200002494.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Grangemouth
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+4,29E+08
+DAY:
+10
+MONTH:
+8 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,72E+16
+min_wind_speed:
+2,36E+16 avg_wind_speed:
+1,9E+15
+max_temp:
+6,52E+15
+min_temp:
+1,15E+16 avg_temp:
+9,45E+15
+DAYS FOG:
+4
+REPORTER NAME:Teresa Soto
+CITY_ID
+ce6badb6a385e25ce519dc600eb7402e
+REPORT CONTAMINACIÓN
+nº:
+81588
+FACILITY NAME:
+INEOS Infrastructure (Grangemouth) Ltd
+81589
+FacilityInspireID:
+UK.SEPA/200002494.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Grangemouth
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+468000
+DAY:
+19
+MONTH:
+1 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,55E+16
+min_wind_speed:
+1,79E+16 avg_wind_speed: 1,51E+16
+max_temp:
+2,47E+16
+min_temp:
+6,44E+15 avg_temp:
+2,09E+16
+DAYS FOG:
+13
+REPORTER NAME:Kayla Fox
+CITY_ID
+ce6badb6a385e25ce519dc600eb7402e
+REPORT CONTAMINACIÓN
+nº:
+81589
+FACILITY NAME:
+Markinch Biomass CHP
+81590
+FacilityInspireID:
+UK.SEPA/200002509.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Glenrothes
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(b)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+4,87E+08
+DAY:
+4
+MONTH:
+9 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 8,03E+15
+min_wind_speed:
+2,01E+15 avg_wind_speed:
+1,4E+15
+max_temp:
+1,2E+16
+min_temp:
+3,64E+16 avg_temp:
+5,76E+15
+DAYS FOG:
+13
+REPORTER NAME:Christian Winters
+CITY_ID
+007e670e3bc4ccd47d59d8c578e751cb
+REPORT CONTAMINACIÓN
+nº:
+81590
+FACILITY NAME:
+Markinch Biomass CHP
+81591
+FacilityInspireID:
+UK.SEPA/200002509.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Glenrothes
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(b)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+230000
+DAY:
+5
+MONTH:
+10 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,08E+16
+min_wind_speed:
+1,66E+15 avg_wind_speed: 1,53E+16
+max_temp:
+-1,3E+16
+min_temp:
+5,43E+15 avg_temp:
+1,49E+16
+DAYS FOG:
+10
+REPORTER NAME:Shari Moore
+CITY_ID
+007e670e3bc4ccd47d59d8c578e751cb
+REPORT CONTAMINACIÓN
+nº:
+81591
+FACILITY NAME:
+Dunbar Energy Recovery Facility
+81592
+FacilityInspireID:
+UK.SEPA/200002618.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+East Barns, Dunbar, East Lothian
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(b)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+2,74E+08
+DAY:
+2
+MONTH:
+7 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,61E+14
+min_wind_speed:
+2,3E+16 avg_wind_speed: 1,81E+16
+max_temp:
+1,53E+15
+min_temp:
+2E+16 avg_temp:
+1,78E+16
+DAYS FOG:
+15
+REPORTER NAME:Samuel Day
+CITY_ID
+6935acf68ac33c9c85ff634275880d97
+REPORT CONTAMINACIÓN
+nº:
+81592
+FACILITY NAME:
+Dunbar Energy Recovery Facility
+81593
+FacilityInspireID:
+UK.SEPA/200002618.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+East Barns, Dunbar, East Lothian
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(b)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+323000
+DAY:
+11
+MONTH:
+10 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,93E+16
+min_wind_speed:
+2,67E+15 avg_wind_speed: 1,87E+16
+max_temp:
+6,82E+15
+min_temp:
+1,37E+16 avg_temp:
+8,77E+15
+DAYS FOG:
+1
+REPORTER NAME:Christopher Tate
+CITY_ID
+6935acf68ac33c9c85ff634275880d97
+REPORT CONTAMINACIÓN
+nº:
+81593
+FACILITY NAME:
+Shetland Gas Plant
+81594
+FacilityInspireID:
+UK.SEPA/200002620.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Shetland
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+2,08E+08
+DAY:
+19
+MONTH:
+5 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,59E+16
+min_wind_speed:
+2,32E+16 avg_wind_speed: 2,11E+15
+max_temp:
+1,18E+16
+min_temp:
+1,92E+16 avg_temp:
+1,45E+16
+DAYS FOG:
+18
+REPORTER NAME:James Johnson
+CITY_ID
+223137a83f11fbc93f2af549579ee6ac
+REPORT CONTAMINACIÓN
+nº:
+81594
+FACILITY NAME:
+Shetland Gas Plant
+81595
+FacilityInspireID:
+UK.SEPA/200002620.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Shetland
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Methane (CH4)
+emissions:
+101000
+DAY:
+16
+MONTH:
+4 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,28E+16
+min_wind_speed:
+1,8E+16 avg_wind_speed:
+1,4E+16
+max_temp:
+1,56E+16
+min_temp:
+2,12E+15 avg_temp:
+1,81E+15
+DAYS FOG:
+6
+REPORTER NAME:Lindsey Fisher
+CITY_ID
+223137a83f11fbc93f2af549579ee6ac
+REPORT CONTAMINACIÓN
+nº:
+81595
+FACILITY NAME:
+Shetland Gas Plant
+81596
+FacilityInspireID:
+UK.SEPA/200002620.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Shetland
+EPRTRSectorCode:
+1
+eprtrSectorName:
+Energy sector
+MainActivityCode:1(c)
+targetRealase:
+AIR
+pollutant:
+Nitrogen oxides (NOX)
+emissions:
+148000
+DAY:
+3
+MONTH:
+2 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 1,35E+16
+min_wind_speed:
+1,78E+16 avg_wind_speed: 1,46E+15
+max_temp:
+9,66E+15
+min_temp:
+1,26E+16 avg_temp:
+1,1E+16
+DAYS FOG:
+19
+REPORTER NAME:Brian Gonzalez
+CITY_ID
+223137a83f11fbc93f2af549579ee6ac
+REPORT CONTAMINACIÓN
+nº:
+81596
+FACILITY NAME:
+Millerhill Recycling & Energy Recovery Centre
+81597
+FacilityInspireID:
+UK.SEPA/200002651.Facility
+COUNTRY:
+United Kingdom
+CONTINENT:
+EUROPE
+CITY:
+Millerhill, Dalkeith
+EPRTRSectorCode:
+5
+eprtrSectorName:
+Waste and wastewater management
+MainActivityCode:5(b)
+targetRealase:
+AIR
+pollutant:
+Carbon dioxide (CO2)
+emissions:
+1,32E+08
+DAY:
+4
+MONTH:
+12 YEAR:
+2019
+METEOROLOGICAL CONDITIONS
+max_wind_speed: 2,09E+15
+min_wind_speed:
+2,46E+16 avg_wind_speed: 2,07E+15
+max_temp:
+5,74E+15
+min_temp:
+9,42E+15 avg_temp:
+7,31E+15
+DAYS FOG:
+6
+REPORTER NAME:Jason Moses
+CITY_ID
+c662b4b4d859a9c224b5ac0acf221748
+
